@@ -1,7 +1,7 @@
 # MCM_ICM_2018
 Place on file our work in MCM/ICM 2018 (including mock contest)
 
-We accomplished the ICM 2018 and chose the problem D, which is a operational research problem.
+We accomplished ICM 2018 problem D, which is an operational research problem.
 Paper: ICM_2018 (Honorable Mention)
 
 The mock contest was accomplished on 20 Oct 2017. 
